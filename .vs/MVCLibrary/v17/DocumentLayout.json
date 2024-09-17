@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Migrations\\20240917131758_added-book-author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCLibrary\\Migrations\\20240917131758_added-book-author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +47,12 @@
       "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Migrations\\20240917125452_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCLibrary\\Migrations\\20240917125452_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|c:\\users\\giolga\\desktop\\mvclibrary\\mvclibrary\\migrations\\20240917125452_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFB8AB8-D292-4202-9680-51FA4AA11C18}|MVCLibrary\\MVCLibrary.csproj|solutionrelative:mvclibrary\\migrations\\20240917125452_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 873,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +74,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCLibrary\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "MVCLibrary\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:33:30.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCLibrary\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "MVCLibrary\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:33:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCLibrary\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "MVCLibrary\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:32:35.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCLibrary\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "MVCLibrary\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:22:09.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240917131758_added-book-author.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Migrations\\20240917131758_added-book-author.cs",
+              "RelativeDocumentMoniker": "MVCLibrary\\Migrations\\20240917131758_added-book-author.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Migrations\\20240917131758_added-book-author.cs",
+              "RelativeToolTip": "MVCLibrary\\Migrations\\20240917131758_added-book-author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:17:58.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Program.cs",
               "RelativeDocumentMoniker": "MVCLibrary\\Program.cs",
@@ -63,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "MVCLibrary\\Models\\SeedData.cs",
@@ -71,12 +160,11 @@
               "RelativeToolTip": "MVCLibrary\\Models\\SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:03:56.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:03:56.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCLibrary\\Views\\Shared\\_Layout.cshtml",
@@ -84,12 +172,11 @@
               "RelativeToolTip": "MVCLibrary\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T13:00:09.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:00:09.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "20240917125452_initial-create.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Migrations\\20240917125452_initial-create.cs",
               "RelativeDocumentMoniker": "MVCLibrary\\Migrations\\20240917125452_initial-create.cs",
@@ -97,12 +184,37 @@
               "RelativeToolTip": "MVCLibrary\\Migrations\\20240917125452_initial-create.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:54:52.726Z",
+              "WhenOpened": "2024-09-17T12:54:52.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MVCLibrary\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MVCLibrary\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:46:40.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCLibrary\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "MVCLibrary\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:20:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\appsettings.json",
               "RelativeDocumentMoniker": "MVCLibrary\\appsettings.json",
@@ -110,31 +222,17 @@
               "RelativeToolTip": "MVCLibrary\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-17T12:48:43.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:48:43.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "MVCLibrary\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "MVCLibrary\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:46:40.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Models\\Book.cs",
               "RelativeDocumentMoniker": "MVCLibrary\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MVCLibrary\\MVCLibrary\\Models\\Book.cs",
               "RelativeToolTip": "MVCLibrary\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T12:41:20.238Z",
               "EditorCaption": ""

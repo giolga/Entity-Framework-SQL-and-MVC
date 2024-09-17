@@ -250,3 +250,4 @@ C:\Users\GioLGA\Desktop\MVCLibrary\MVCLibrary\obj\Debug\net8.0\refint\MVCLibrary
 C:\Users\GioLGA\Desktop\MVCLibrary\MVCLibrary\obj\Debug\net8.0\MVCLibrary.pdb
 C:\Users\GioLGA\Desktop\MVCLibrary\MVCLibrary\obj\Debug\net8.0\MVCLibrary.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\MVCLibrary\MVCLibrary\obj\Debug\net8.0\ref\MVCLibrary.dll
+C:\Users\GioLGA\Desktop\MVCLibrary\MVCLibrary\obj\Debug\net8.0\MVCLibrary.sourcelink.json
